@@ -1,0 +1,119 @@
+#
+# The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan. If you use data from this database, please be sure attribute this database as follows: "BodyParts3D, (c)  The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan".
+# http://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+#
+#
+# Compatibility version : 4.0
+# File ID : FJ3161
+# Representation ID : BP9108
+# Build-up logic : FMA 3.0 is_a
+# Concept ID : FMA12521
+# English name : Third cervical vertebra
+# Bounds(mm): (-29.842800,-87.813200,1417.000000)-(28.539300,-38.133100,1445.740000)
+# Volume(cm3): 9.121000
+#
+
+#
+# The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan. If you use data from this database, please be sure attribute this database as follows: "BodyParts3D, (c)  The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan".
+# http://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+#
+#
+# Compatibility version : 4.0
+# File ID : FJ3164
+# Representation ID : BP8003
+# Build-up logic : FMA 3.0 is_a
+# Concept ID : FMA12522
+# English name : Fourth cervical vertebra
+# Bounds(mm): (-27.753400,-89.108100,1404.600000)-(26.377500,-40.693600,1432.140000)
+# Volume(cm3): 8.504100
+#
+
+#
+# The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan. If you use data from this database, please be sure attribute this database as follows: "BodyParts3D, (c)  The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan".
+# http://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+#
+#
+# Compatibility version : 4.0
+# File ID : FJ3167
+# Representation ID : BP8835
+# Build-up logic : FMA 3.0 is_a
+# Concept ID : FMA12523
+# English name : Fifth cervical vertebra
+# Bounds(mm): (-29.697800,-90.772600,1393.770000)-(28.333200,-36.082500,1417.990000)
+# Volume(cm3): 9.863000
+#
+
+#
+# The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan. If you use data from this database, please be sure attribute this database as follows: "BodyParts3D, (c)  The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan".
+# http://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+#
+#
+# Compatibility version : 4.0
+# File ID : FJ3170
+# Representation ID : BP7845
+# Build-up logic : FMA 3.0 is_a
+# Concept ID : FMA12524
+# English name : Sixth cervical vertebra
+# Bounds(mm): (-31.265200,-91.671000,1381.590000)-(29.947700,-29.179400,1404.740000)
+# Volume(cm3): 10.012200
+#
+
+#
+# The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan. If you use data from this database, please be sure attribute this database as follows: "BodyParts3D, (c)  The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan".
+# http://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+#
+#
+# Compatibility version : 4.0
+# File ID : FJ3172
+# Representation ID : BP7979
+# Build-up logic : FMA 3.0 is_a
+# Concept ID : FMA12525
+# English name : Seventh cervical vertebra
+# Bounds(mm): (-33.229300,-90.031900,1364.710000)-(31.931600,-21.266400,1391.840000)
+# Volume(cm3): 12.720000
+#
+
+#
+# The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan. If you use data from this database, please be sure attribute this database as follows: "BodyParts3D, (c)  The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan".
+# http://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+#
+#
+# Compatibility version : 4.0
+# File ID : FJ3166
+# Representation ID : BP9156
+# Build-up logic : FMA 3.0 is_a
+# Concept ID : FMA9248
+# English name : Fourth thoracic vertebra
+# Bounds(mm): (-35.461700,-69.604900,1277.740000)-(34.282000,-0.197900,1321.410000)
+# Volume(cm3): 18.994200
+#
+
+#
+# The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan. If you use data from this database, please be sure attribute this database as follows: "BodyParts3D, (c)  The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan".
+# http://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+#
+#
+# Compatibility version : 4.0
+# File ID : FJ3231
+# Representation ID : BP8081
+# Build-up logic : FMA 3.0 is_a
+# Concept ID : FMA8148
+# English name : Left fourth rib
+# Bounds(mm): (12.905700,-192.195000,1211.100000)-(116.281000,-23.191900,1315.350000)
+# Volume(cm3): 24.814400
+#
+
+#
+# The license for this database is specified in the Creative Commons Attribution-Share Alike 2.1 Japan. If you use data from this database, please be sure attribute this database as follows: "BodyParts3D, (c)  The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan".
+# http://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+#
+#
+# Compatibility version : 4.0
+# File ID : FJ3340
+# Representation ID : BP9092
+# Build-up logic : FMA 3.0 is_a
+# Concept ID : FMA7957
+# English name : Right fourth rib
+# Bounds(mm): (-117.593000,-192.192000,1211.100000)-(-15.011900,-23.194500,1315.350000)
+# Volume(cm3): 24.775200
+#
